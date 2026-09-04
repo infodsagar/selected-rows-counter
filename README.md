@@ -35,7 +35,6 @@ Press `F5` in VS Code to launch an Extension Development Host.
 npm run package
 ```
 
-Before publishing, replace `YOUR-PUBLISHER-ID` in `package.json` with your Visual Studio Marketplace publisher ID.
 
 ## Release Notes
 
