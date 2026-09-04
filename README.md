@@ -1,6 +1,6 @@
-# Selected Lines Counter
+# Selected Rows Counter
 
-Selected Lines Counter shows the number of selected lines directly in the Visual Studio Code status bar.
+Selected Rows Counter shows the number of selected lines directly in the Visual Studio Code status bar.
 
 ## Features
 
