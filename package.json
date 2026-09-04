@@ -1,0 +1,37 @@
+{
+  "name": "selected-lines-counter",
+  "displayName": "Selected Lines Counter",
+  "description": "Shows the number of selected lines in the VS Code status bar.",
+  "version": "1.0.0",
+  "publisher": "YOUR-PUBLISHER-ID",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "selected lines",
+    "line count",
+    "line counter",
+    "selection",
+    "status bar",
+    "productivity"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./out/extension.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.6.2",
+    "typescript": "^5.9.2"
+  }
+}
