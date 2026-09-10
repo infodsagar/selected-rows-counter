@@ -1,9 +1,9 @@
 {
-  "name": "selected-rows-counter",
-  "displayName": "Selected Rows Counter",
+  "name": "display-selected-rows-counter",
+  "displayName": "Display selected Rows Counter",
   "description": "Shows the number of selected rows in the VS Code status bar.",
   "version": "1.0.0",
-  "publisher": "SagarDobariya",
+  "publisher": "SagarD",
   "license": "MIT",
   "icon": "images/icon.png",
   "engines": {
@@ -36,10 +36,10 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/infodsagar/selected-lines-counter.git"
+      "url": "https://github.com/infodsagar/selected-rows-counter.git"
   },
   "bugs": {
-      "url": "https://github.com/infodsagar/selected-lines-counter/issues"
+      "url": "https://github.com/infodsagar/selected-rows-counter/issues"
   },
-  "homepage": "https://github.com/infodsagar/selected-lines-counter#readme"
+  "homepage": "https://github.com/infodsagar/selected-rows-counter#readme"
 }
